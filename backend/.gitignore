@@ -33,4 +33,4 @@ build/
 .vscode/
 
 # Ignore Google Cloud service account credentials
-backend/src/main/config/serviceAccountKey.json
+# backend/src/main/config/serviceAccountKey.json
